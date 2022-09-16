@@ -1,0 +1,25 @@
+{
+  "name": "dsa-learning",
+  "version": "1.0.0",
+  "description": "Jest/CircleCI project using data structure and algorithms as testing subject.",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunowollinger/dsa-learning.git"
+  },
+  "author": "Bruno Wollinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunowollinger/dsa-learning/issues"
+  },
+  "homepage": "https://github.com/brunowollinger/dsa-learning#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "@types/jest": "^29.0.3"
+  }
+}
